@@ -1,0 +1,59 @@
+.back-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 74px;
+}
+
+.navbar #myMenu .custom-nav .nav-item a{
+    color: #fff;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover{
+    color: aqua;
+}
+
+
+.navbar-brand {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.container .row i{
+    font-size: 5rem;
+}
+
+.back-image {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 74px;
+  }
+  
+  .st {
+    font-size: 24px;
+  }
+  
+  a {
+    font-size: 1rem;
+  }
+
+  a:hover {
+    color: yellowgreen;
+  }
+
+  strong{
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  small{
+    font-size: 1.15rem;
+  }
+
+  
